@@ -54,10 +54,16 @@ Google Dialogflow와 STT, TTS를 android에 연동한 앱
   가운데에 있는 버튼 클릭 시 ResponseText에 나온 글을 읽어준다.
   
 ## 음성 목소리 바꾸는 법
-
+ <table>   
+  <tr>
+    <td><b>4.키 추가 - 새 키 만들기 - json파일로 받기
+    </b><img width="806" alt="20221005_220110" src="https://user-images.githubusercontent.com/115002427/194066623-9e47de40-2442-483a-8353-0f3b4035e3ea.png"></td>
+  </tr>
+  
+</table>  
     
     
-    
+    ![KakaoTalk_20221005_221115406_02](https://user-images.githubusercontent.com/115002427/194069206-2a928f4a-8785-4b9f-8ca2-c2539352de4c.jpg)
   
     
      
