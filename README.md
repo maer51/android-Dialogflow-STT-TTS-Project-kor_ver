@@ -58,18 +58,18 @@ Google Dialogflow와 STT, TTS를 android에 연동한 앱
   <tr>
     <td><b>1.일반</b></td>
      <td><b>2.글자 읽어주기</b></td>
-     <td><b>Update Recognitions</b></td>
+     <td><b>3.기본 엔진 옆 톱니바퀴</b></td>
   </tr>
   <tr>
     <td><img src="https://user-images.githubusercontent.com/115002427/194069837-46a35b57-47bf-4266-8edb-81d222a67b1e.png" width=270 height=480></td>
     <td><img src="https://user-images.githubusercontent.com/115002427/194072715-463f484f-91f4-4efa-ba5e-a429d7ec9dcb.jpg" width=270 height=480></td>
-    <td><img src="demo/update_reco.jpeg" width=270 height=480></td>
+    <td><img src="https://user-images.githubusercontent.com/115002427/194073053-ed9925fc-6f49-4faf-afad-125e2bf9118a.jpg" width=270 height=480></td>
   </tr>
  </table>
-    
-<img src="https://user-images.githubusercontent.com/115002427/194069837-46a35b57-47bf-4266-8edb-81d222a67b1e.png" width=270 height=480>
+ 
+## 사용 시
 
-<img src="https://user-images.githubusercontent.com/115002427/194072715-463f484f-91f4-4efa-ba5e-a429d7ec9dcb.jpg" width=270 height=480>
+    
   
     
      
