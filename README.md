@@ -12,13 +12,18 @@ Google Dialogflow와 STT, TTS를 android에 연동한 앱
   <tr>
     <td><b>1.왼쪽 상단의 톱니바퀴 누르고 나서 Project ID 클릭</b><img width="992" alt="20221005_213834" src="https://user-images.githubusercontent.com/115002427/194062301-cafdb713-263b-41b2-9d19-f90f50c02b63.png"></td>
   </tr>  
-<table>
-    <td><b>View Recognitions</b></td>
+</table>    
+   
+<table>   
+  <tr>
+    <td><b>2.서비스 계정 클릭
+    </b><img width="363" alt="20221005_214852" src="https://user-images.githubusercontent.com/115002427/194064121-8194f598-d068-46a2-9368-9595b8319211.png"></td>
   </tr>
+  
+</table>  
     
     
-     <td><b>View Recognitions</b></td>
-     <td><b>Update Recognitions</b></td>
+     
   
 
 
