@@ -1,7 +1,15 @@
-# Dialogflow-Android-Project
-Google 챗봇 플랫폼인 Dialogflow와 Android를 연동한 프로젝트
+# Dialogflow-STT-TTS-Project
+Google Dialogflow와 STT, TTS를 android에 연동한 앱
 
-![image](https://user-images.githubusercontent.com/42290273/100836195-37356000-34b2-11eb-928d-dff04dc40b9a.png)
+## 사용한 도구 
+* Android Studio (Java)
+* Google Dialogflow
+* Google TTS API 
+ (안드로이드 안에 무료로 TTS 내장API를 지원한다. 삼성핸드폰은 samsung TTS API를 지원한다.)
+
+## Dialogflow챗봇 연동
+
+
 
 
 ## 기능설명
