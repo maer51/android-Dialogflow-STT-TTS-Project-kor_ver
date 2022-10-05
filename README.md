@@ -75,14 +75,11 @@ Google Dialogflow와 STT, TTS를 android에 연동한 앱
   </tr>
   <tr>
     <td><img src="https://user-images.githubusercontent.com/115002427/194075105-06d7a964-bec7-4119-babb-049010af12b6.gif" width=270 height=480></td>
-    <td><img src="https://user-images.githubusercontent.com/115002427/194072715-463f484f-91f4-4efa-ba5e-a429d7ec9dcb.jpg" width=270 height=480></td>
+    <td><img src="https://user-images.githubusercontent.com/115002427/194076577-fffbeb53-9fbb-4cbe-b593-d816c57d4fa9.gif" width=270 height=480></td>
   </tr>
  </table>
     
   
-    
-     <img src="https://user-images.githubusercontent.com/115002427/194075105-06d7a964-bec7-4119-babb-049010af12b6.gif" width=270 height=480>
   
-
 
 
