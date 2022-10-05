@@ -19,14 +19,11 @@ Google Dialogflow와 STT, TTS를 android에 연동한 앱
     <td><b>2.서비스 계정 클릭</b><img width="737" alt="20221005_215627" src="https://user-images.githubusercontent.com/115002427/194065589-be958598-06b3-4436-a3dd-35196d627d22.png"></td>
   </tr>  
 </table>   
-   
-   
-   
-   
+      
 <table>   
   <tr>
-    <td><b>2.서비스 계정 클릭
-    </b><img width="432" alt="20221005_215432" src="https://user-images.githubusercontent.com/115002427/194065227-ddd7b569-9bf8-4372-b571-a63f9b5d6baf.png"></td>
+    <td><b>3.이메일 클릭 후 위쪽에 있는 키를 클릭
+    </b><img width="830" alt="20221005_215841" src="https://user-images.githubusercontent.com/115002427/194066082-1479716e-adf5-458f-b966-6a744d090781.png"></td>
   </tr>
   
 </table>  
